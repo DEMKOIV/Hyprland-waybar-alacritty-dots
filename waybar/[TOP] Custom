@@ -15,7 +15,6 @@
     "margin-right": 8,
 
     "modules-left": [
-        "custom/menu",
         "custom/light_dark",
         "custom/separator#dot-line",
         "group/laptop",
