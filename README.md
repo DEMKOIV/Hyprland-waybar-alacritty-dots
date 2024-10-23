@@ -5,5 +5,5 @@ I made this repo primarily for myself so I can have access to my dot files anywh
 - UserSettings.conf --> /~/.config/hypr/UserConfigs
 - alacritty.toml    --> /~/.config/alacritty
 - kitty.conf        --> /~/.config/kitty
-- [TOP] Default Laptop_v3 --> /~/.config/waybar/configs/
+- [TOP] Custom --> /~/.config/waybar/configs/
 - [Transparent2] Crystal Clear.css --> /~/.config/waybar/style/
